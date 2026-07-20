@@ -1,0 +1,9 @@
+{
+  "name": "video-tools",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.1090.0",
+    "@supabase/supabase-js": "^2.x.x"
+  }
+}
